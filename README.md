@@ -151,7 +151,7 @@ such as the following:
 #### Mobile API
 - [Finding Bugs in Mobile APIs](https://youtu.be/watch?v=N9YODrMUk5A)
 
-## Enough Theory let's do some work!
+## Enough theory let's do some work!
 - [Android App Reverse Engineering 101](https://www.ragingrock.com/AndroidAppRE/)
 - [InjuredAndroid - CTF](https://github.com/B3nac/InjuredAndroid)
 - [Insecureshop - An Intentionally Vulnerable Android Application](https://github.com/hax0rgb/InsecureShop)

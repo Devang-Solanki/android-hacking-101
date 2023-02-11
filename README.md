@@ -1,4 +1,8 @@
-# android-hacking-101
+# Android Hacking 101
+Get ready to enter the wild world of Android security, where bugs are bountiful and the fun never ends! Buckle up, bug hunters, this repository is about to take you on a ride.
+
+**Disclaimer**
+This is not intended to be a comprehensive guide to all Android hacking resources or a guarantee that it will make you an expert in this field. However, it can provide a useful starting point for those interested in bug bounties, as all the resources mentioned have personally helped the me in getting into this field. It should be noted that some of the videos referenced may not reflect current best practices, so it is advisable to also use the regularly updated Android developer documentation.
 
 ## Android Architecture
 #### Overview of Android Architecture
@@ -116,3 +120,79 @@ such as the following:
 **More about this in** [Overview of Android Components: Intents](https://yewtu.be/watch?v=ptt7uo7lyhs)
 #### Android Startup
 - [Digging Into Android Startup](https://youtu.be/watch?v=5SQP0qfUDjI) 
+
+## Android Hacking
+- [Getting started with Android App testing with genymotion](https://youtu.be/_HRpLPrlg1U)
+- [Basic Android Pentest](https://youtu.be/watch?v=NrxTBcjAL8A)
+- [Hacking Android Apps with Frida](https://youtu.be/watch?v=iMNs8YAy6pk)
+- [frida-boot 👢 - a binary instrumentation workshop, using Frida, for beginners](https://youtu.be/watch?v=CLpW1tZCblo)
+- [Overview of common Android app vulnerabilities - LevelUp 0x05](https://youtu.be/watch?v=51S8PeuzlmI)
+
+#### Simple Static Analysis
+- [ANDROID APP SECURITY BASICS (Static analysis)](https://youtu.be/watch?v=qS5PkC-37io)
+- [Static Analysis with apktool + gf + jadx](https://youtu.be/watch?v=6-M_7O3A8AI)
+
+#### SSL Unpinning
+- [SSL & It's Unpinning - Sniffing Android '10' HTTPs traffic - Part - 01](https://youtu.be/watch?v=xyCaPU0Vz20)
+- [Physical Vs Emulator - Sniffing Android '10' HTTPs traffic - Part - 02](https://youtu.be/watch?v=0L_bziZiYRE)
+
+#### Webview and Deeplinks
+- [HACKING ANDROID WebViews](https://youtu.be/watch?v=qS5PkC-37io)
+- [Hacking Android Deeplink Issues | Insecure URL Validation](https://youtu.be/watch?v=jn2qkLH_wjU)
+- [Android Weak Host Validation](https://youtu.be/watch?v=VfyuZIvLX8Y)
+- [Exploiting Android deep links and exported components - Ekoparty Mobile Hacking Space Talk](https://yewtu.be/watch?v=lg1sN8njSYs)
+
+#### Issues with Intent
+- [Pending Intents: A Pentester’s view](https://valsamaras.medium.com/pending-intents-a-pentesters-view-92f305960f03)
+- [Intent Redirection (Access to Protected Components)](https://youtu.be/watch?v=Vw7I99AR-Iw)
+- [Access to app protected components](https://blog.oversecured.com/Android-Access-to-app-protected-components/)
+
+
+#### Mobile API
+- [Finding Bugs in Mobile APIs](https://youtu.be/watch?v=N9YODrMUk5A)
+
+## Enough Theory let's do some work!
+- [Android App Reverse Engineering 101](https://www.ragingrock.com/AndroidAppRE/)
+- [InjuredAndroid - CTF](https://github.com/B3nac/InjuredAndroid)
+- [Insecureshop - An Intentionally Vulnerable Android Application](https://github.com/hax0rgb/InsecureShop)
+- [hpAndro1337 Android Application Security](https://github.com/RavikumarRamesh/hpAndro1337)
+
+## Tools that will make your life easy
+- [Mobile-Security-Framework MobSF](https://github.com/MobSF/Mobile-Security-Framework-MobSF)
+- [Drozer](https://github.com/FSecureLABS/drozer)
+- [Objection - Runtime Mobile Exploration toolkit, powered by Frida](https://github.com/sensepost/objection)
+- [Apktool:A tool for reverse engineering Android apk files](https://ibotpeaches.github.io/Apktool/)
+
+#### Online Tools
+- [Bevigil](https://bevigil.com/)
+- [Oversecured](https://oversecured.com/)
+
+## Some pretty good talks & Blogs
+#### Talks
+- [Advanced Android Bug Bounty skills - Ben Actis, Bugcrowd's LevelUp 2017](https://youtu.be/watch?v=OLgmPxTHLuY)
+- [DEF CON Safe Mode Red Team Village - Kyle Benac - Android Application Exploitation](https://youtu.be/watch?v=UbT1KRxq9GQ)
+- [Securing the System: A Deep Dive into Reversing Android Pre-Installed Apps](https://youtu.be/watch?v=U6qTcpCfuFc)
+- [Maddie Stone: Whatsup with WhatsApp: A Detailed Walk Through of Reverse Engineering CVE-2019-3568](https://vimeo.com/377181218)
+- [Android Exploits 101 Workshop](https://youtu.be/watch?v=squuwVQiPgg)
+- [Maddie Stone - Exploiting Samsung: Analysis of an in-the-wild Samsung Exploit Chain - Ekoparty 2022](https://youtu.be/watch?v=hIRKYwgcT54)
+- [OffensiveCon22 - Maddie Stone -Real World 0-days ](https://youtu.be/watch?v=8SV5l-Bxj_U)
+- [Vulnerabilities of mobile OAuth 2.0 by Nikita Stupin, Mail.ru](https://yewtu.be/watch?v=vjCF_O6aZIg)
+
+#### Blogs
+- [Penetrate the Protected Component in Android Part -1](https://payatu.com/blog/amit/Penetrate_the_protected_component_in_android_Part-0)
+- [Penetrate the Protected Component in Android Part -2](https://payatu.com/blog/amit/Penetrate_the_protected_component_in_android_Part-2)
+- [Two weeks of securing Samsung devices: Part 1](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-1/)
+- [Two weeks of securing Samsung devices: Part 2](https://blog.oversecured.com/Two-weeks-of-securing-Samsung-devices-Part-2/)
+- [Android: Gaining access to arbitrary* Content Providers](https://blog.oversecured.com/Gaining-access-to-arbitrary-Content-Providers/)
+- [Reversing an Android sample which uses Flutter](https://cryptax.medium.com/reversing-an-android-sample-which-uses-flutter-23c3ff04b847)
+- [How to exploit insecure WebResourceResponse configurations + an example of the vulnerability in Amazon apps](https://blog.oversecured.com/Android-Exploring-vulnerabilities-in-WebResourceResponse)
+- [Sharpening your FRIDA scripting skills with Frida Tool](https://blog.securelayer7.net/sharpening-your-frida-scripting-skills-with-frida-tool/)
+
+## Checklist
+- [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg/tree/master/Checklists)
+- [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs)
+- [Android security checklist: WebView](https://blog.oversecured.com/Android-security-checklist-webview/)
+
+# Discolsed Bounty Report 
+- [List of Android Hackerone disclosed reports](https://github.com/B3nac/Android-Reports-and-Resources)
+

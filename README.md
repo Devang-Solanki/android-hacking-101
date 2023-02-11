@@ -2,6 +2,7 @@
 Get ready to enter the wild world of Android security, where bugs are bountiful and the fun never ends! Buckle up, bug hunters, this repository is about to take you on a ride.
 
 **Disclaimer**
+
 This is not intended to be a comprehensive guide to all Android hacking resources or a guarantee that it will make you an expert in this field. However, it can provide a useful starting point for those interested in bug bounties, as all the resources mentioned have personally helped the me in getting into this field. It should be noted that some of the videos referenced may not reflect current best practices, so it is advisable to also use the regularly updated Android developer documentation.
 
 ## Android Architecture

@@ -118,7 +118,7 @@ such as the following:
 - For broadcast receivers, the intent simply defines the announcement being broadcast.
     - For example, a broadcast to indicate the device battery is low includes only a known action string that indicates *battery is low*.
 
-**More about this in** [Overview of Android Components: Intents](https://yewtu.be/watch?v=ptt7uo7lyhs)
+**More about this in** [Overview of Android Components: Intents](https://yewtu.be/watch?v=ptt7uo7lyhs), [Triggering Android Intents](https://youtu.be/3oQho1GEqCQ?feature=shared)
 #### Android Startup
 - [Digging Into Android Startup](https://youtu.be/watch?v=5SQP0qfUDjI) 
 
@@ -132,6 +132,7 @@ such as the following:
 #### Simple Static Analysis
 - [ANDROID APP SECURITY BASICS (Static analysis)](https://youtu.be/watch?v=qS5PkC-37io)
 - [Static Analysis with apktool + gf + jadx](https://youtu.be/watch?v=6-M_7O3A8AI)
+- [RElax and Analyze some Android Malware](https://youtube.com/playlist?list=PLn_It163He3168Q21sPfiyb0j5K6_riG7&feature=shared)
 
 #### SSL Unpinning
 - [SSL & It's Unpinning - Sniffing Android '10' HTTPs traffic - Part - 01](https://youtu.be/watch?v=xyCaPU0Vz20)

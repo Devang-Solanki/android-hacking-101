@@ -137,6 +137,7 @@ such as the following:
 #### SSL Unpinning
 - [SSL & It's Unpinning - Sniffing Android '10' HTTPs traffic - Part - 01](https://youtu.be/watch?v=xyCaPU0Vz20)
 - [Physical Vs Emulator - Sniffing Android '10' HTTPs traffic - Part - 02](https://youtu.be/watch?v=0L_bziZiYRE)
+- [SSL Unpinning Made Easy](https://devang-solanki.github.io/others/SSL_Unpinning_Made_Easy)
 
 #### Webview and Deeplinks
 - [HACKING ANDROID WebViews](https://youtu.be/watch?v=qS5PkC-37io)

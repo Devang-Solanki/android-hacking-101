@@ -166,6 +166,7 @@ such as the following:
 - [Drozer](https://github.com/FSecureLABS/drozer)
 - [Objection - Runtime Mobile Exploration toolkit, powered by Frida](https://github.com/sensepost/objection)
 - [Apktool:A tool for reverse engineering Android apk files](https://ibotpeaches.github.io/Apktool/)
+- [Medusa](https://github.com/Ch0pin/medusa)
 
 #### Online Tools
 - [Bevigil](https://bevigil.com/)

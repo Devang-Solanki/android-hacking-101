@@ -206,4 +206,4 @@ such as the following:
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=Devang-Solanki/android-hacking-101&type=Date)](https://star-history.com/#Devang-Solanki/android-hacking-101&Date)
+![Star History Chart](https://api.star-history.com/svg?repos=Devang-Solanki/android-hacking-101&type=Date)]

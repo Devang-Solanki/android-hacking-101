@@ -195,6 +195,7 @@ such as the following:
 - [Sharpening your FRIDA scripting skills with Frida Tool](https://blog.securelayer7.net/sharpening-your-frida-scripting-skills-with-frida-tool/)
 
 ## Checklist
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPL-3.0) autonomous AI penetration testing platform covering web, API, Active Directory and Kubernetes, with proof of exploitation and a local privacy gateway.
 - [OWASP Mobile Security Testing Guide (MSTG)](https://github.com/OWASP/owasp-mstg/tree/master/Checklists)
 - [OWASP Mobile Application Security Verification Standard (MASVS)](https://github.com/OWASP/owasp-masvs)
 - [Android security checklist: WebView](https://blog.oversecured.com/Android-security-checklist-webview/)
